@@ -5,4 +5,5 @@ Programs:
 - Positive/Negative/Zero
 - Largest of Three
 - Leap Year
+- Calculator 
 - Scholarship System
