@@ -1,4 +1,3 @@
-# 45-Days-Data-Science-Challenge
 # 45 Days Data Science Challenge
 
 ## About Me
