@@ -12,11 +12,24 @@
 - Remove Duplicates
 
 ## Mini Project
-### Student Marks Analyzer
+# Student Marks Analyzer
 
-Features:
-- Store marks in a list
-- Calculate average marks
-- Find highest mark
-- Find lowest mark
-- Count pass/fail students
+## Objective
+Analyze student marks and generate a performance report.
+
+## Features
+- Total Marks
+- Average Marks
+- Highest Marks
+- Lowest Marks
+- Grade
+- Pass/Fail Status
+
+## Technologies Used
+- Python
+- Lists
+- Loops
+- Conditions
+
+## Developed By
+Sujeet Goswami
