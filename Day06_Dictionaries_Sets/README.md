@@ -22,7 +22,7 @@
 3. Find Duplicate Elements
 
 ## Mini Project
-### Student Database Management System
+### 1. Student Database Management System
 
 Features:
 - Student Information Storage
@@ -31,5 +31,14 @@ Features:
 - Average Marks Calculation
 - Performance Analysis
 
-## Bonus
-Pandas Introduction
+### 2. Student Data Analyzer (Pandas)
+
+Features:
+
+- Highest Marks
+- Lowest Marks
+- Average Marks
+- Topper Identification
+- Lowest Scorer Identification
+  
+
