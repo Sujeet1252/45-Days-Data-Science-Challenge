@@ -1,0 +1,27 @@
+# Day 22 - Statistics for Data Science
+
+## Topics Covered
+
+- Mean
+- Median
+- Mode
+- Range
+- Variance
+- Standard Deviation
+
+## Major Project
+
+Employee Salary Statistics Dashboard
+
+Features:
+- Statistical Summary
+- Salary Distribution
+- Business Insights
+- Data Visualization
+
+## Libraries Used
+
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
