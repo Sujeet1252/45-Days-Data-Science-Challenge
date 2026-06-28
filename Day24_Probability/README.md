@@ -22,7 +22,6 @@ Features:
 - Final Statistical Report
 
 ## Libraries Used
-
 - random
 - matplotlib
 - pandas
