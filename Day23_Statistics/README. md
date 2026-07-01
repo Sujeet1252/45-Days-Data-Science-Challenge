@@ -8,6 +8,8 @@
 - Range
 - Variance
 - Standard Deviation
+- Percentile
+- Frequency Distribution
 
 ## Major Project
 
@@ -18,6 +20,7 @@ Features:
 - Salary Distribution
 - Business Insights
 - Data Visualization
+
 
 ## Libraries Used
 
