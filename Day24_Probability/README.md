@@ -9,6 +9,8 @@
 - Probability Formula
 - Coin Toss Simulation
 - Dice Roll Simulation
+- Co Variance & Co Relation
+
 
 ## Major Project
 
