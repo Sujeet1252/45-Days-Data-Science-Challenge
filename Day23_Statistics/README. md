@@ -16,10 +16,12 @@
     - No Skewness
     - Left Skewness
     - Right Skewness
+- Hypothesis Testing
+    - T Testing
+    - Z Testing
+    - Chi Square Testing
+- Central Limit Theory
 
-## Major Project
-
-Employee Salary Statistics Dashboard
 
 Features:
 - Statistical Summary
