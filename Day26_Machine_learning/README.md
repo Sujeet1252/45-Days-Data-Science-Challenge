@@ -11,8 +11,7 @@
 - Model Evaluation
 
 ## Weekly Major Project
-
-🏠 House Price Prediction System
+  House Price Prediction System
 
 ### Features
 
