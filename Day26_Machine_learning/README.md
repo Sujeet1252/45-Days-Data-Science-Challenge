@@ -5,11 +5,11 @@
 - Introduction to Machine Learning
 - Types of Machine Learning
 - Outlier
-      i. Z - Score
-      ii. IQR Method
+      1. Z - Score
+      2. IQR Method
 - Feature Scaling
-      i. Standardizaton
-      ii. Normalization
+      1. Standardizaton
+      2. Normalization
 - Train-Test Split
 - Linear Regression
 - Model Prediction
