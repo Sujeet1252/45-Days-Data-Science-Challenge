@@ -10,6 +10,7 @@
 - Feature Scaling
       1. Standardizaton
       2. Normalization
+- Linear Regression
 - Train-Test Split
 - Feature Selection Technique
 - Model Prediction
