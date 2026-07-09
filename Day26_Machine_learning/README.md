@@ -6,7 +6,7 @@
 - Types of Machine Learning
 - Outlier
   - Z-Score Method
-  - - IQR Method
+  - IQR Method
 - Feature Scaling
   - Standardizaton
   - Normalization
