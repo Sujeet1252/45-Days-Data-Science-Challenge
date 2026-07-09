@@ -5,16 +5,17 @@
 - Introduction to Machine Learning
 - Types of Machine Learning
 - Outlier
-      - Z - Score
-      - IQR Method
+  - Z-Score Method
+  - - IQR Method
 - Feature Scaling
-      1. Standardizaton
-      2. Normalization
+  - Standardizaton
+  - Normalization
 - Linear Regression
 - Train-Test Split
 - Feature Selection Technique
-- Model Prediction
-- Model Evaluation
+  - Forward Selection
+  - Backward Selection
+
 
 ## Weekly Major Project
   House Price Prediction System
