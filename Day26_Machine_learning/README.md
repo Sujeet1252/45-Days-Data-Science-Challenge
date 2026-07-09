@@ -11,7 +11,7 @@
       1. Standardizaton
       2. Normalization
 - Train-Test Split
-- Linear Regression
+- Feature Selection Technique
 - Model Prediction
 - Model Evaluation
 
