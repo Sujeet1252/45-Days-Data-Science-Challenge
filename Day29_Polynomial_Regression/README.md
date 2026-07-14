@@ -1,5 +1,7 @@
-## Day 29 Polynomial Regression
+# Day 29 Polynomial Regression
 
-Topic Covered
+## Topics Covered
 
+- Polynomial Equation
+- Scatter Plot Analysis
 
