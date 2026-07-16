@@ -4,9 +4,13 @@
 
 - Polynomial Equation
 - Scatter Plot Analysis
-
+- Regularization
+  - Lasso Coefficient
+  - Ridge Coefficient
+  - 
 ### Features
 
+- linear Regression Types
 
 
 # Libraries Used
