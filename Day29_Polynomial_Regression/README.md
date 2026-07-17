@@ -8,7 +8,10 @@
   - Lasso Coefficient
   - Ridge Coefficient
   - 
-### Features
+### Naive Baye's Model
+- Gaussian NB
+- Bernoulli NB
+- Multinomial NB
 
 - linear Regression Types
 
