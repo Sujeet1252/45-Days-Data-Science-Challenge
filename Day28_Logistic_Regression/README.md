@@ -10,6 +10,10 @@
 - Confusion Matrix
 - Classification Report
 
+## Techniques To Handle Imbalance Data
+- Random Under Sampler
+- Random Over Sampler
+
 ## Major Project
 
 🎓 Student Pass/Fail Prediction System
