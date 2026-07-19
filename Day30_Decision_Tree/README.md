@@ -11,6 +11,9 @@
 - Confusion Matrix
 - Tree Visualization
 - Feature Importance
+- Pruning
+    - Pre Pruning
+    - Post Pruning
 
 ## Major Project
 
