@@ -1,4 +1,4 @@
-# 45 Days Data Science Challenge
+# 60 Days Data Science Challenge
 
 ## About Me
 MCA Student passionate about Data Science, Python, Machine Learning and Full-Stack Development.
