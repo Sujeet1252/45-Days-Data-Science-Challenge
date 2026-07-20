@@ -4,7 +4,7 @@
 MCA Student passionate about Data Science, Python, Machine Learning and Full-Stack Development.
 
 ## Challenge Goal
-Complete a 45-day roadmap covering:
+Complete a 60-day roadmap covering:
 - Python
 - SQL
 - Data Analysis
