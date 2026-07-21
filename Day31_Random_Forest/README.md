@@ -13,7 +13,7 @@
 
 ## Major Project
 
-👨‍💼 Employee Attrition Prediction System
+ Employee Attrition Prediction System
 
 ### Features
 
