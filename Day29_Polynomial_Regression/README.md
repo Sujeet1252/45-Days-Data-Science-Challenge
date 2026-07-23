@@ -7,20 +7,37 @@
 - Regularization
   - Lasso Coefficient
   - Ridge Coefficient
-    
-### Naive Baye's Model
-- Gaussian NB
-- Bernoulli NB
-- Multinomial NB
 
 - linear Regression Types
    - Polynomial Regression
    - Ridge Regression
    - Lasso Regression
 
-# Libraries Used
-- Numpy
+# Naive Bayes
+
+- Bayes' Theorem
+- Naive Bayes Algorithm
+- Gaussian Naive Bayes
+- Probability Prediction
+- Model Training
+- Model Evaluation
+
+## Major Project
+
+📧 Email Spam Detection System
+
+### Features
+
+- Spam Detection
+- Probability Prediction
+- Confusion Matrix
+- Model Comparison (Naive Bayes vs KNN)
+- Business Insights
+
+## Libraries Used
+
 - Pandas
-- Seaborn
+- NumPy
 - Matplotlib
-- Sickit Learn
+- Seaborn
+- Scikit-learn
