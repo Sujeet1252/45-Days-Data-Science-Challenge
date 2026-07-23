@@ -1,4 +1,4 @@
-# Day 32 - Naive Bayes
+# Day 29 -Polynomial Regression and Naive Bayes
 
 ## Topics Covered
 
